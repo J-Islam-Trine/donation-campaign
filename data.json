@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "image_url": "https://www.globalgiving.org/pfil/61301/pict_large.jpg",
+    "category": "Disaster Response",
+    "primaryColor": "#fb5607",
+    "secondaryColor": "#FFF",
+    "tertiaryColor": "#B63C04",
+    "title": "Libya Flood Relief Fund",
+    "description" : "On September 8, 2023, an earthquake left more than 2,900 dead and 5,500 injured in the provinces of Al Haouz, Taroudant, Azilal, Ouarzazate and Chichaoua. The tremors caused significant damage to homes and key infrastructure, collapsing wells, destroying agricultural terraces, making roads inaccessible, and leaving, in some cases, entire villages leveled and without access to water, food, or medical care.",
+    "price": "50"
+  }, {
+    "id": 2,
+    "image_url": "https://www.globalgiving.org/pfil/13317/pict_large.jpg",
+    "category": "Education",
+    "primaryColor": "#90e0ef",
+    "secondaryColor": "#03045e",
+    "tertiaryColor": "#00b4d8",
+    "title": "Skill-building for Unemployed Youth in Lebanon",
+    "description": "The Nawaya Network develops the income-generating skills of youth from low-income backgrounds via entrepreneurship, employment, and economic development programs. We offer technical training, soft skills training, mentorship, coaching, funding, internships, and job matching. Over the past 11 years, we have supported over 13,000 youth. The funds raised here will allow us to cover costs that donor partners do not cover, to allow our programs to continue to run smoothly.",
+    "price": "12"
+  }, {
+    "id": 3,
+    "image_url": "https://www.globalgiving.org/pfil/30704/pict_large.jpg",
+    "category": "Education",
+    "primaryColor": "#90e0ef",
+    "secondaryColor": "#03045e",
+    "tertiaryColor": "#00b4d8",
+    "title": "Empower Maya Weavers' Children through Education",
+    "description": "Our project, Mano a Mano Para el Desarrollo, empowers and supports the children of Tz'utujil Maya weavers in Santiago Atitlan, Guatemala with a multi-generational and local focus. We aim to create an academic center that provides complete financial assistance for school supplies, personal development workshops, and adequate academic support for the children of Cojolya.",
+    "price": "93"
+  }, {
+    "id": 4,
+    "image_url": "https://www.globalgiving.org/pfil/54436/pict_large.jpg",
+    "category": "Physical Health",
+    "primaryColor": "#80ffdb",
+    "secondaryColor": "#5e60ce",
+    "tertiaryColor": "#64dfdf",
+    "title" : "Provide Urgent Medical Attention To Syrians",
+    "description": "This campaign aims to support URGENT medical needs of those most in need in northern Syria through supporting our hospitals, medical centers and mobile clinics located there",
+    "price": "50"
+  }, {
+    "id": 5,
+    "image_url": "https://www.globalgiving.org/pfil/10010/pict_large.jpg",
+    "category": "Physical Health",
+    "primaryColor": "#80ffdb",
+    "secondaryColor": "#5e60ce",
+    "tertiaryColor": "#64dfdf",
+    "title": "Lifeskills for 2,587 Children in South Africa",
+    "description": "Join Keep The Dream196 in changing 2,587 South African orphaned and vulnerable children's lives. The kids aged 5-26yrs, changing families, villages and eventually the country, by transferring life skills and infusing hope, we are impacting and building South Africa today. The children learn and apply for example: integrity, honesty & self leadership in practical everyday situations. \"Turning 18 all I had to look forward to was learning to smoke and dying of AIDS, now I have hope\"- says Ronny.",
+    "price": "60"
+  }, {
+    "id": 6,
+    "image_url": "https://www.globalgiving.org/pfil/7011/pict_large.jpg",
+    "category": "Disaster Response",
+    "primaryColor": "#fb5607",
+    "secondaryColor": "#FFF",
+    "tertiaryColor": "#B63C04",
+    "title": "Support High Atlas community earthquake resilience",
+    "description": "On 9/8/2023, a massive earthquake struck Marrakech & the High Atlas with deadly force. We are committed to providing immediate & long-term support to alleviate immense suffering & restore resilience of rural communities where we have worked for 10+ years, including at Dar Taliba. Our hearts ache for our team & communities who have lost family & seen their homes reduced to rubble. These villages are among the most marginalised & remote in Morocco. Please help us to provide relief & rebuild.",
+    "price": "25"
+  }, {
+    "id": 7,
+    "image_url": "https://www.globalgiving.org/pfil/22098/pict_large.jpg",
+    "category": "Climate Action",
+    "primaryColor": "#d9ed92",
+    "secondaryColor": "#1a759f",
+    "tertiaryColor": "#99d98c",
+    "title": "Forests4Water Brazil: Community Climate Action",
+    "description": "If there's one thing that the pandemic has taught us, it's how interdependent we all are, and how what happens in one place can affect others, thousands of miles away. Take rainforests. Home to half of the biodiversity on earth, they store carbon, produce oxygen and play a crucial role in regulating the water cycle and stabilizing weather patterns over huge areas. Global warming demands that we take urgent action to protect and restore the ecosystems on which all our lives depend, starting now.",
+    "price": "75"
+  }, {
+    "id": 8,
+    "image_url": "https://www.globalgiving.org/pfil/49808/pict_large.jpg",
+    "category": "Physical Health",
+    "primaryColor": "#80ffdb",
+    "secondaryColor": "#5e60ce",
+    "tertiaryColor": "#64dfdf",
+    "title": "Sponsor 500 Syrian Patients",
+    "description": "This campaign aims to alleviate the suffering of the vulnerable patients in northwest Syria through sponsoring the costs of medical consultations and surgical operations.",
+    "price": "100"
+  }, {
+    "id": 9,
+    "image_url": "https://www.globalgiving.org/pfil/61239/pict_large.jpg",
+    "category": "Disaster Response",
+    "primaryColor": "#fb5607",
+    "secondaryColor": "#FFF",
+    "tertiaryColor": "#B63C04",
+    "title": "Earthquake Relief for Moroccan Communities",
+    "description": "On September 8, 2023, an earthquake left more than 2,900 dead and 5,500 injured in the provinces of Al Haouz, Taroudant, Azilal, Ouarzazate and Chichaoua. The tremors caused significant damage to homes and key infrastructure, collapsing wells, destroying agricultural terraces, making roads inaccessible, and leaving, in some cases, entire villages leveled and without access to water, food, or medical care.",
+    "price": "90"
+  }, {
+    "id": 10,
+    "image_url": "https://www.globalgiving.org/pfil/51509/pict_large.jpg",
+    "category": "Climate Action",
+    "primaryColor": "#d9ed92",
+    "secondaryColor": "#1a759f",
+    "tertiaryColor": "#99d98c",
+    "title": "Plant 40,000 Trees In Northern Rwanda",
+    "description": "Through this project, the Rwandan Youth Development and Voluntary Organization (RWAYDAVO) will plant and maintain 40,000 trees in the Northern Rwandan region, and enable environmental protection as well as economic support of the local Rwandan community in 5 rural sectors of Cyinzuzi, Burega, Kiyanza, Mugambazi, and Ntarabana. Your donation will go towards RWAYDAVO's planting and maintaining of 40,000 Trees.",
+    "price": "10"
+  }, {
+    "id": 11,
+    "image_url": "https://www.globalgiving.org/pfil/60120/pict_large.jpg",
+    "category": "Education",
+    "primaryColor": "#90e0ef",
+    "secondaryColor": "#03045e",
+    "tertiaryColor": "#00b4d8",
+    "title": "Educate 500 Syrian Refugee Students",
+    "description": "The project will provide free education using remote learning platforms like Microsoft Teams to 500 students who have been deprived of education due to the challenging circumstances, disruptions, displacement, and poverty in northern Syria. Most of these students come from vulnerable groups such as orphans, children with disabilities, and those living in refugee camps in the north of the country.",
+    "price": "100"
+  }, {
+    "id": 12,
+    "image_url": "https://www.globalgiving.org/pfil/27692/pict_large.jpg",
+    "category": "Climate Action",
+    "primaryColor": "#d9ed92",
+    "secondaryColor": "#1a759f",
+    "tertiaryColor": "#99d98c",
+    "title": "Mangrove Restoration for Coastal Protection",
+    "description": "The goal of the project is to create 20 hectares mangrove greenbelt through planting and regenerating 100000 mangrove together with local people in order to coastal protection, mangrove-based livelihoods promotion and biodiversity conservation, as well as climate change adaptation and mitigation. Once there were plenty of mangroves in the periphery of project site but this mangrove has come under severe pressure due to climatic and anthropogenic reasons.",
+    "price": "25"
+  }]
